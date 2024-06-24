@@ -1,0 +1,65 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+main {
+    height: 1480px;
+    width: 700px;
+    background: white;
+    margin: 0 auto;
+    border: 10px;
+    border-radius: 10px;
+}
+
+.bar {
+    color: brown;
+    padding-left: 43px;
+}
+
+.abc{
+    margin: 40px;
+    background-color: hsl(330, 100%, 98%);
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+}
+.img {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.practice {
+    padding-left: 43px;
+    padding-right: 40px;
+}
+
+.egg {
+    margin: 10px;
+    padding-right: 40px;
+}
+
+#nutri {
+    padding-left: 43px;
+}
+
+.label {
+    padding-left: 43px;
+}
+
+.value {
+    padding-left: 49px;
+    color: brown;
+}
+
+#carb {
+    padding-left: 65px;
+}
+
+#protein {
+    padding-left: 55px;
+}
+
+#fat {
+    padding-left: 78px;
+    border: 20px;
+}
